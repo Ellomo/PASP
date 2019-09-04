@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/ring.png</file>
+        <file>img/bilding.png</file>
+        <file>img/create.png</file>
+        <file>img/exit.png</file>
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/saveAs.png</file>
+        <file>img/accept.png</file>
+        <file>img/add.png</file>
+        <file>img/change.png</file>
+        <file>img/del.png</file>
+        <file>img/cancel.png</file>
+        <file>img/gosOrg.png</file>
+        <file>img/gosYch.png</file>
+        <file>img/YandFFace.png</file>
+        <file>img/noneType.png</file>
+        <file>img/test.png</file>
+        <file>img/ask.png</file>
+        <file>img/money.png</file>
+    </qresource>
+</RCC>
